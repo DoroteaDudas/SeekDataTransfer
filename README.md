@@ -39,7 +39,7 @@ choose "open notebook", choose the GitHub tab, and copy the Github link
 
 ## Credits
 
-These scripts are developed by Dorotea Dudas, [HITS gGmbH](https://www.h-its.org/en/).  
+<!--These scripts are developed by Dorotea Dudas, [HITS gGmbH](https://www.h-its.org/en/).  -->
 <!--the SBDV team at [HITS gGmbH](https://www.h-its.org/en/).-->
 
 #### Code Licensing 

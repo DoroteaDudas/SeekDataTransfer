@@ -9,6 +9,23 @@ Using SEEK python API.
 
 Requires Jupyter Notebook.  
 
+## WIP
+
+<table align="center">
+    <tr>
+    <td align="left">File</td>
+    <td align="left">Description</td>
+    </tr>
+    <tr>
+    <td align="left">&#8226; data_transfer_06.ipynb<a href=""></a> </td>
+    <td align="left">&#8226; TRANSFER ASSAY AND DATA_FILE (INCLUDING BLOB) </td>
+    </tr>
+    <tr>
+    <td align="left">&#8226; data_transfer_09.ipynb<a href=""></a> </td>
+    <td align="left">&#8226; TRANSFER TRANSFER STUDY + DOWNWARD ISA STRUCTURE </td>
+    </tr>    
+</table>
+
 
 ## Useful Links
 
